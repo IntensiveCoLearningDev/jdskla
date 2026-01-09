@@ -69,9 +69,10 @@ Bruce
 <!-- START_COMMIT_TABLE -->
 | Name | 1.09 | 1.10 | 1.11 | 1.12 | 1.13 | 1.14 | 1.15 | 1.16 | 1.17 | 1.18 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [HY-BOT](https://github.com/IntensiveCoLearningDev/jdskla/blob/main/notes/HY-BOT.md) |   | | | | | | | | | |
+| [HY-BOT](https://github.com/IntensiveCoLearningDev/jdskla/blob/main/notes/HY-BOT.md) | ✅ | | | | | | | | | |
 | [brucexu-eth](https://github.com/IntensiveCoLearningDev/jdskla/blob/main/notes/brucexu-eth.md) |   | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
