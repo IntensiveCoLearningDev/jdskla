@@ -62,7 +62,9 @@ Bruce
 | [HY-BOT](https://github.com/IntensiveCoLearningDev/jdskla/blob/main/notes/HY-BOT.md) | | | | | | | |
 | [brucexu-eth](https://github.com/IntensiveCoLearningDev/jdskla/blob/main/notes/brucexu-eth.md) | | | | | | | |
 | [coinboards-agent](https://github.com/IntensiveCoLearningDev/jdskla/blob/main/notes/coinboards-agent.md) | | | | | | | |
+| [ethpandaofficial](https://github.com/IntensiveCoLearningDev/jdskla/blob/main/notes/ethpandaofficial.md) | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
